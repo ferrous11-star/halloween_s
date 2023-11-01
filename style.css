@@ -1,0 +1,30 @@
+h1{background-color: aqua;}
+footer{text-align: center;
+padding: 5px;
+background-color: azure;
+color: #00;}
+#introduction{color: blueviolet;
+    justify-content: center;
+background-color: black;}
+.intro{background-color: black;}
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;}
+    .website{color: purple;
+    text-shadow: 5px 3px 5px orange;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+font-size: 50px;}
+#title{color: white;
+background-color: black;
+font-size: 75px;}
+.h2:hoover{transition-duration: 3s;
+text-shadow: #b0001b;}
+.website:hoover{color: #b0001b;
+transition-duration: 3s;}
+.bottom{background-image: -webkit-linear-gradient(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpxknDstQYsKRQIfUCQMIpQGgmqG1aW_UTNtXMrmQ&s);}
+.celebration{font-family: cursive;}
+.card{font-family: cursive;}
+.finger{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.body{text-align: center;}
