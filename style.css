@@ -21,10 +21,22 @@ background-color: black;
 font-size: 75px;}
 .h2:hoover{transition-duration: 3s;
 text-shadow: #b0001b;}
+.gunna{color: lemonchiffon;}
 .website:hoover{color: #b0001b;
 transition-duration: 3s;}
 .bottom{background-image: -webkit-linear-gradient(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpxknDstQYsKRQIfUCQMIpQGgmqG1aW_UTNtXMrmQ&s);}
-.celebration{font-family: cursive;}
-.card{font-family: cursive;}
+.celebration{font-family: cursive;
+font-size: 25px;
+color: white;}
+.bard{font-family: cursive;
+color: yellow;
+background-image: url(https://i.pinimg.com/236x/f8/0d/59/f80d5900fec077bd469a66ad1321aaf1.jpg);}
 .finger{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 .body{text-align: center;}
+.dard{color: lemonchiffon;
+font-size: 25px;
+font-family: cursive;}
+.fard{font-family: cursive;
+color: yellow;
+background-color: black;}
+body{background-image: url(https://img.freepik.com/free-photo/halloween-wallpaper-with-evil-pumpkin_23-2149122582.jpg?size=626&ext=jpg);}
